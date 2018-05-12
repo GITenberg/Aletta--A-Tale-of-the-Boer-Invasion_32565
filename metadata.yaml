@@ -1,0 +1,27 @@
+_repo: Aletta--A-Tale-of-the-Boer-Invasion_32565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitford, Bertram
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '32710'
+    url: http://www.gutenberg.org/2009/agents/32710
+description: ''
+gutenberg_issued: '2010-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Afrikaners -- Fiction'
+- !lcsh 'South African War, 1899-1902 -- Fiction'
+title: 'Aletta: A Tale of the Boer Invasion'
+url: http://www.gutenberg.org/ebooks/32565
